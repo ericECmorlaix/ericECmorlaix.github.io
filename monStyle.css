@@ -3,6 +3,10 @@ body {
 }
 
 h1 {
-  color: navy;
+  color: orange;
   margin-left: 20px;
+}
+p {
+  color: green;
+  
 }
