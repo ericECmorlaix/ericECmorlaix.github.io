@@ -1,12 +1,16 @@
 body {
-  background-color: lightblue;
+  background-color: #20201d;
 }
 
 h1 {
-  color: orange;
-  margin-left: 20px;
+  color: purple;  
 }
+
+h2 {
+  color: darkorange;  
+}
+
 p {
-  color: green;
+  color: lightblue;
   
 }
