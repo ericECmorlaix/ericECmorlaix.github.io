@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-02T09:18:43.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="_HDiG20b9O9u26zEYXja" version="12.1.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-02T09:29:49.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="TvNyZQhRPWcyeo8VKhmD" version="12.1.9" type="github" pages="3">
   <diagram id="3SBMNnXg6JR-qF6ZDaZB" name="TraiterInformation">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D5FOxf-u59th-5cH2Way" name="FonctionLogique">
-    <mxGraphModel dx="971" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="670" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="xFZRL8ruo2bNCQsDWqM9-0"/>
         <mxCell id="xFZRL8ruo2bNCQsDWqM9-1" parent="xFZRL8ruo2bNCQsDWqM9-0"/>
@@ -223,7 +223,7 @@
       <root>
         <mxCell id="WjFFTkwUtxUGCzq6Q61m-0"/>
         <mxCell id="WjFFTkwUtxUGCzq6Q61m-1" parent="WjFFTkwUtxUGCzq6Q61m-0"/>
-        <mxCell id="WjFFTkwUtxUGCzq6Q61m-2" value="&lt;font color=&quot;#663300&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 25px&quot;&gt;Éclairer&amp;nbsp;par&lt;br&gt;Va et Vient&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;" vertex="1" parent="WjFFTkwUtxUGCzq6Q61m-1">
+        <mxCell id="WjFFTkwUtxUGCzq6Q61m-2" value="&lt;font color=&quot;#663300&quot; face=&quot;Comic Sans MS&quot; style=&quot;font-size: 24px&quot;&gt;&lt;span&gt;Éclairer&amp;nbsp;par&lt;br&gt;Va et Vient&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;" vertex="1" parent="WjFFTkwUtxUGCzq6Q61m-1">
           <mxGeometry x="320" y="80" width="200" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="WjFFTkwUtxUGCzq6Q61m-4" value="" style="endArrow=openThin;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endFill=0;strokeColor=#0000CC;strokeWidth=2;" edge="1" parent="WjFFTkwUtxUGCzq6Q61m-1">
