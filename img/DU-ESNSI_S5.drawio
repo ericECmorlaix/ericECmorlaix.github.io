@@ -1,1 +1,29 @@
-<mxfile host="www.draw.io" modified="2019-11-16T11:45:47.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.6" etag="dxuDbs_uqlFe_Nocmy3r" type="github"><diagram id="ahR2rKYbVzf9i_6jtT3x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-16T11:56:11.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bO2uM_zBCtZlvpu33S6J" version="12.2.6" type="github" pages="3">
+  <diagram id="ahR2rKYbVzf9i_6jtT3x" name="Page-1">
+    <mxGraphModel dx="971" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="CScBY7Tbpf9MQEuzLafO-1" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Heading&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Notre entreprise débite des profilés alu en tronçons standardisés de 0,6m 0,8m 1,1m 2,3m ;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Une commande est à traiter chaque jour, celle-ci étant passée le soir précédent ;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Les barres découpées ont une longueur de 3m ;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Le but est d&#39;avoir le moins de chutes possibles ;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Tout restachou strictement inférieur à 0,6 m est un rebus.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;rotation=10;" vertex="1" parent="1">
+          <mxGeometry x="460" y="71" width="340" height="281" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lNgwMPWebTkGLGDl14W9" name="Page-2">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KrXNPJCUWQSNt3sxm_y2-0"/>
+        <mxCell id="KrXNPJCUWQSNt3sxm_y2-1" parent="KrXNPJCUWQSNt3sxm_y2-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cm0c5ks_LUW5QC9gQsne" name="Page-3">
+    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Cu-JUqYQdmBb2PS9hbKU-0"/>
+        <mxCell id="Cu-JUqYQdmBb2PS9hbKU-1" parent="Cu-JUqYQdmBb2PS9hbKU-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
