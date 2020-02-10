@@ -1,1 +1,34 @@
-<mxfile host="www.draw.io" modified="2020-02-10T14:32:07.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" version="12.6.7" etag="6jG_mLIEBValryni0jik" type="github"><diagram id="CgPU94vLUk0OUCEAAOFN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-10T15:09:48.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="yhkzMSv08CS0HFIVLeL7" version="12.6.7" type="github">
+  <diagram id="CgPU94vLUk0OUCEAAOFN" name="Page-1">
+    <mxGraphModel dx="1463" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-1" value="&lt;h2&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;DU ESNSI&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="17" y="36" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-2" value="&lt;h1 style=&quot;line-height: 170%&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ea671b&quot;&gt;Prendre&lt;span style=&quot;font-weight: normal&quot;&gt; en main l&#39;interface &lt;/span&gt;Jupyter Notebook&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;font color=&quot;#ea671b&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;pour &lt;/span&gt;produire&lt;span style=&quot;font-weight: normal&quot;&gt; des documents pédagogiques ;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="590" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=9;strokeWidth=2;comic=1;strokeColor=#999999;glass=1;fontColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="810" height="550" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ericecmorlaix.github.io/img/Jupyter_logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="321.12" y="176" width="177.76" height="206.04" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-6" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ea671b&quot;&gt;Configurer&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ea671b&quot; style=&quot;font-weight: normal&quot;&gt; l&#39;environnement,&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ea671b&quot; style=&quot;font-weight: normal&quot;&gt;&amp;nbsp;et&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ea671b&quot;&gt;propulser&lt;/font&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#ea671b&quot; style=&quot;font-weight: normal&quot;&gt; l&#39;ensemble sur le web&amp;nbsp;à destination des élèves.&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;rounded=0;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="30" y="385.04" width="760" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-8" value="&lt;h2&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Le 12/02/2020&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="659" y="36" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-9" value="&lt;h2&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;par Eric MADEC&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="20" y="509" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="IY27EQO2BWVV3JiAhJOz-10" value="&lt;h2&gt;&lt;/h2&gt;&lt;a href=&quot;https://github.com/ericECmorlaix/m0-jupyter&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 18px&quot; color=&quot;#4d4d4d&quot;&gt;https://github.com/ericECmorlaix/m0-jupyter&lt;/font&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="410" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
