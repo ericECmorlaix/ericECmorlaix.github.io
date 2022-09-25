@@ -1,8 +1,6 @@
 
 Un notebook jupyter permet de rapidement publier un compte rendu scientifique multimédia sur le Web.
 
-[![Logo Jupyter](../img/Jupyter_logo.svg "Aller sur le https://jupyter.org")](https://jupyter.org/)
-
 [![Logo Jupyter](../img/JupyterSatellites.png "Aller sur le https://jupyter.org")](https://jupyter.org/)
 
 
