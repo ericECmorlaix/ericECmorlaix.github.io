@@ -1,9 +1,7 @@
 
 Un notebook jupyter permet de rapidement publier un compte rendu scientifique multimédia sur le Web.
 
-<center>
 <img src="https://ericecmorlaix.github.io/img/JupyterNoteBook.png" alt="Description du contenu d'un Jupyter NoteBook" title="Description du contenu d'un Jupyter NoteBook" width=50%>
-</center>
 
 Voici ci dessous quelques exemples à lire dans [nbviewer](https://nbviewer.org/) puis à télécharger pour y expérimenter certaines fonctionnalités :
 
