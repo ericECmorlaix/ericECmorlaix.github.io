@@ -19,7 +19,7 @@
 
 ## Utiles
 
-[![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=64&v=4 "GitHub")](https://github.com/)
+[![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub")](https://github.com/)
 [![Logo GitPod](https://gitpod.io/static/media/gitpod.a7ab6752.svg "GitPod")](https://gitpod.io/)
 
 - [Ecole Directe](https://www.ecoledirecte.com)
@@ -30,7 +30,7 @@
 
 ## Projets
 
-[![Logo](https://avatars.githubusercontent.com/in/15368?s=64&v=4 "Ce dépôt GitHub")](https://github.com/ericECmorlaix/ericECmorlaix.github.io) 
+[![Logo](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "Ce dépôt GitHub")](https://github.com/ericECmorlaix/ericECmorlaix.github.io) 
 
 - [Robot 6 axes](https://mkx-3d.github.io/bras-6-axes/)
 
