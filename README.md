@@ -20,12 +20,10 @@
 
 ## Utiles
 
-[![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub")](https://github.com/)
-[![Logo GitPod](https://gitpod.io/static/media/gitpod.a7ab6752.svg "GitPod")](https://gitpod.io/)
-
+- [![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub") GitHub](https://github.com/)
 - [Ecole Directe](https://www.ecoledirecte.com)
 - [EC@M](https://www.ecmorlaix.fr/)
-- [Office365](https://login.microsoftonline.com/)
+- [Microsoft 365](https://login.microsoftonline.com/)
 - [CDI](https://cdi-lycee.ecmorlaix.fr)
 - présentation spécialités [SI](http://si.lycee.ecmorlaix.fr/) ou [NSI](http://si.lycee.ecmorlaix.fr/nsi)
 
