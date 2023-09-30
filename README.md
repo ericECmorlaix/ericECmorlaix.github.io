@@ -1,4 +1,4 @@
-## En cours
+## Cours
 
 [![Logo](./img/LogoIO-small_brown.png "TSI-NSI_2023-2024")](https://ericecmorlaix.github.io/TSI-NSI_2023-2024) 
 [![Logo](./img/LogoIO-small_red.png "TSI_2023-2024")](https://ericecmorlaix.github.io/TSI_2023-2024)
@@ -8,18 +8,16 @@
 [![Logo](./img/LogoIO-small_green.png "2SI-CIT_2023-2024")](https://ericecmorlaix.github.io/2SI-CIT_2023-2024)
 [![Logo](./img/LogoIO-small_lime.png "SNT-2GT5_2023-2024")](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024)
 [![Logo](./img/LogoIO-small_green.png "2SI_2023-2024")](https://ericecmorlaix.github.io/2SI_2023-2024)
-
-## Tutoriels
-
 [![Logo](./img/LogoIO-small_Accueil_3.png "Accueil 3")](https://ericecmorlaix.github.io/accueil_3/)
+
+## Ressources
+
 [![Logo](./img/LogoIO-small-blue_grey.png "AdN : Lab SI")](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/)
 [![Logo](./img/LogoIO-small-Obsidian.png "AdN : Obsidian")](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/)
 [![Logo](./img/LogoIO-small_pink.png "AdN : Site Web")](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/) 
 [![Logo Jupyter](./img/Jupyter_logo.svg "Mes Blocs Notes")](https://ericecmorlaix.github.io/bn/)
 
 - [EC@M ressources info](https://ec-morlaix.github.io/info/)
-
-
 
 ## Utiles
 
