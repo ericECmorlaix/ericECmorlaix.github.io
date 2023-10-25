@@ -18,14 +18,16 @@
 [![Logo Jupyter](./img/Jupyter_logo.svg "Mes Blocs Notes")](https://ericecmorlaix.github.io/bn/)
 
 - [EC@M ressources info](https://ec-morlaix.github.io/info/)
+- [CDI](https://cdi-lycee.ecmorlaix.fr)
 
 ## Utiles
 
 - [![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub") GitHub](https://github.com/)
 - [Ecole Directe](https://www.ecoledirecte.com)
-- [EC@M](https://www.ecmorlaix.fr/)
 - [Microsoft 365](https://login.microsoftonline.com/)
-- [CDI](https://cdi-lycee.ecmorlaix.fr)
+- [EC@M](https://www.ecmorlaix.fr/)
+
+
 - présentation spécialités [SI](http://si.lycee.ecmorlaix.fr/) ou [NSI](http://si.lycee.ecmorlaix.fr/nsi)
 
 ## Projets

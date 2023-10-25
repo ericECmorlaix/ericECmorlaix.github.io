@@ -16,3 +16,7 @@ Voici ci dessous quelques exemples à lire dans [nbviewer](https://nbviewer.org/
 
 - [Arithmetique-Le_BN_pour_calculer](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb)
 
+- [Slide-Le_BN_pour_presenter](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Slide-Le_BN_pour_presenter.ipynb)
+
+- [Display-Le_BN_pour_afficher](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Display-Le_BN_pour_afficher.ipynb)
+
