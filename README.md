@@ -28,7 +28,7 @@
 - [EC@M](https://www.ecmorlaix.fr/)
 
 
-- présentation spécialités [SI](http://si.lycee.ecmorlaix.fr/) ou [NSI](http://si.lycee.ecmorlaix.fr/nsi)
+- présentation spécialités [SI](https://ericecmorlaix.github.io/si) ou [NSI](https://ericecmorlaix.github.io/nsi)
 
 ## Projets
 
