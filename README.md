@@ -1,13 +1,13 @@
 ## Cours
 
-[![Logo](./img/LogoIO-small_brown.png "TSI-NSI_2023-2024")](https://ericecmorlaix.github.io/TSI-NSI_2023-2024) 
-[![Logo](./img/LogoIO-small_red.png "TSI_2023-2024")](https://ericecmorlaix.github.io/TSI_2023-2024)
-[![Logo](./img/LogoIO-small_deep_purple.png "TNSI_2023-2024")](https://ericecmorlaix.github.io/TNSI_2023-2024)
-[![Logo](./img/LogoIO-small_blue.png "1SI_2023-2024")](https://ericecmorlaix.github.io/1SI_2023-2024)
-[![Logo](./img/LogoIO-small_orange.png "1NSI_2023-2024")](https://ericecmorlaix.github.io/1NSI_2023-2024)
-[![Logo](./img/LogoIO-small_green.png "2SI-CIT_2023-2024")](https://ericecmorlaix.github.io/2SI-CIT_2023-2024)
-[![Logo](./img/LogoIO-small_lime.png "SNT-2GT5_2023-2024")](https://ericecmorlaix.github.io/SNT-2GT5_2023-2024)
-[![Logo](./img/LogoIO-small_green.png "2SI_2023-2024")](https://ericecmorlaix.github.io/2SI_2023-2024)
+[![Logo](./img/LogoIO-small_brown.png "TSI-NSI_2024-2025")](https://ericecmorlaix.github.io/TSI-NSI_2024-2025) 
+[![Logo](./img/LogoIO-small_red.png "TSI_2024-2025")](https://ericecmorlaix.github.io/TSI_2024-2025)
+[![Logo](./img/LogoIO-small_deep_purple.png "TNSI_2024-2025")](https://ericecmorlaix.github.io/TNSI_2024-2025)
+[![Logo](./img/LogoIO-small_blue.png "1SI_2024-2025")](https://ericecmorlaix.github.io/1SI_2024-2025)
+[![Logo](./img/LogoIO-small_orange.png "1NSI_2024-2025")](https://ericecmorlaix.github.io/1NSI_2024-2025)
+[![Logo](./img/LogoIO-small_green.png "2SI-CIT_2024-2025")](https://ericecmorlaix.github.io/2SI-CIT_2024-2025)
+[![Logo](./img/LogoIO-small_lime.png "SNT-2GT5_2024-2025")](https://ericecmorlaix.github.io/SNT-2GT5_2024-2025)
+[![Logo](./img/LogoIO-small_green.png "2SI_2024-2025")](https://ericecmorlaix.github.io/2SI_2024-2025)
 [![Logo](./img/LogoIO-small_Accueil_3.png "Accueil 3")](https://ericecmorlaix.github.io/accueil_3/)
 
 ## Ressources
