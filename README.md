@@ -6,7 +6,7 @@
 [![Logo](./img/LogoIO-small_blue.png "1SI_2024-2025")](https://ericecmorlaix.github.io/1SI_2024-2025)
 [![Logo](./img/LogoIO-small_orange.png "1NSI_2024-2025")](https://ericecmorlaix.github.io/1NSI_2024-2025)
 [![Logo](./img/LogoIO-small_green.png "2SI-CIT_2024-2025")](https://ericecmorlaix.github.io/2SI-CIT_2024-2025)
-[![Logo](./img/LogoIO-small_lime.png "SNT-2GT5_2024-2025")](https://ericecmorlaix.github.io/SNT-2GT5_2024-2025)
+[![Logo](./img/LogoIO-small_lime.png "SNT-2GT4_2024-2025")](https://ericecmorlaix.github.io/SNT-2GT4_2024-2025)
 [![Logo](./img/LogoIO-small_green.png "2SI_2024-2025")](https://ericecmorlaix.github.io/2SI_2024-2025)
 [![Logo](./img/LogoIO-small_Accueil_3.png "Accueil 3")](https://ericecmorlaix.github.io/accueil_3/)
 
