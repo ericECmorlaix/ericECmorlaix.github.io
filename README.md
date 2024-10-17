@@ -22,6 +22,7 @@
 
 ## Utiles
 
+- [![Logo Capytale](https://capytale2.ac-paris.fr/logo.svg) Capytale](https://capytale2.ac-paris.fr/web/c-auth/login)
 - [![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub") GitHub](https://github.com/)
 - [Ecole Directe](https://www.ecoledirecte.com)
 - [Microsoft 365](https://login.microsoftonline.com/)
