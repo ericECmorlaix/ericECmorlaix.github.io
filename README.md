@@ -22,7 +22,7 @@
 
 ## Utiles
 
-- <a href="https://capytale2.ac-paris.fr/web/c-auth/login"><img src="https://capytale2.ac-paris.fr/logo.svg" width=4%> Capytale</a>
+- <a href="https://capytale2.ac-paris.fr/web/c-auth/login">Capytale</a>
 - [![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub") GitHub](https://github.com/)
 - [Ecole Directe](https://www.ecoledirecte.com)
 - [Microsoft 365](https://login.microsoftonline.com/)
