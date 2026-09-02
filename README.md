@@ -1,6 +1,6 @@
 ## Cours
 
-[![Logo](./img/LogoIO-small_brown.png "T_SI-NSI_2026-2027")](https://ericecmorlaix.github.io/TSI-NSI_2026-2027) 
+[![Logo](./img/LogoIO-small_brown.png "T_SI-NSI_2026-2027")](https://ericecmorlaix.github.io/T_SI-NSI_2026-2027) 
 [![Logo](./img/LogoIO-small_red.png "TSI_2026-2027")](https://ericecmorlaix.github.io/TSI_2026-2027)
 [![Logo](./img/LogoIO-small_deep_purple.png "TNSI_2026-2027")](https://ericecmorlaix.github.io/TNSI_2026-2027)
 [![Logo](./img/LogoIO-small_blue.png "1SI_2026-2027")](https://ericecmorlaix.github.io/1SI_2026-2027)
