@@ -5,9 +5,9 @@
 [![Logo](./img/LogoIO-small_deep_purple.png "TNSI_2026-2027")](https://ericecmorlaix.github.io/TNSI_2026-2027)
 [![Logo](./img/LogoIO-small_blue.png "1SI_2026-2027")](https://ericecmorlaix.github.io/1SI_2026-2027)
 [![Logo](./img/LogoIO-small_orange.png "1NSI_2026-2027")](https://ericecmorlaix.github.io/1NSI_2026-2027)
-[![Logo](./img/LogoIO-small_green.png "2SI-CIT_2026-2027")](https://ericecmorlaix.github.io/2SI-CIT_2026-2027)
-[![Logo](./img/LogoIO-small_lime.png "SNT-2GT4_2026-2027")](https://ericecmorlaix.github.io/SNT-2GT4_2026-2027)
-[![Logo](./img/LogoIO-small_green.png "2SI_2026-2027")](https://ericecmorlaix.github.io/2SI_2026-2027)
+<!-- [![Logo](./img/LogoIO-small_green.png "2SI-CIT_2026-2027")](https://ericecmorlaix.github.io/2SI-CIT_2026-2027) -->
+[![Logo](./img/LogoIO-small_lime.png "SNT-2GT2_2026-2027")](https://ericecmorlaix.github.io/SNT-2GT2_2026-2027)
+<!-- [![Logo](./img/LogoIO-small_green.png "2SI_2026-2027")](https://ericecmorlaix.github.io/2SI_2026-2027) -->
 [![Logo](./img/LogoIO-small_Accueil_3.png "Accueil 3")](https://ericecmorlaix.github.io/accueil_3/)
 
 ## Ressources
@@ -17,7 +17,7 @@
 [![Logo](./img/LogoIO-small_pink.png "AdN : Site Web")](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/) 
 [![Logo Jupyter](./img/Jupyter_logo.svg "Mes Blocs Notes")](https://ericecmorlaix.github.io/bn/)
 
-- [EC@M ressources info](https://ec-morlaix.github.io/info/)
+- [EC@M ressources info](https://ec-morlaix.forge.apps.education.fr/infos/)
 - [CDI](https://cdi-lycee.ecmorlaix.fr)
 
 ## Utiles
