@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulation Éclairage Va-et-Vient</title>
+    <style>
+        :root {
+            --bg-color: #1a1a24;
+            --card-bg: #262636;
+            --text-color: #e2e8f0;
+            --accent-on: #ffd000;
+            --accent-off: #475569;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+            font-size: 1.8rem;
+            text-align: center;
+        }
+
+        p.subtitle {
+            color: #94a3b8;
+            margin-bottom: 40px;
+            text-align: center;
+            max-width: 500px;
+        }
+
+        /* Conteneur principal du circuit */
+        .circuit {
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            gap: 40px;
+            flex-wrap: wrap;
+            max-width: 700px;
+            width: 100%;
+        }
+
+        /* Ampoule */
+        .bulb-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .bulb-icon {
+            width: 80px;
+            height: 80px;
+            fill: var(--accent-off);
+            transition: all 0.3s ease;
+        }
+
+        .bulb-icon.active {
+            fill: var(--accent-on);
+            filter: drop-shadow(0 0 15px var(--accent-on)) drop-shadow(0 0 35px var(--accent-on));
+            transform: scale(1.05);
+        }
+
+        .status-badge {
+            font-size: 0.9rem;
+            font-weight: bold;
+            padding: 6px 14px;
+            border-radius: 20px;
+            background-color: #334155;
+            transition: all 0.3s ease;
+        }
+
+        .status-badge.active {
+            background-color: #ca8a04;
+            color: #fff;
+        }
+
+        /* Interrupteurs (Toggle switches) */
+        .switch-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .switch-label {
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 34px;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #334155;
+            transition: .4s;
+            border-radius: 34px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 26px;
+            width: 26px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .slider {
+            background-color: #3b82f6;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(26px);
+        }
+
+        /* Table de vérité */
+        .truth-table {
+            margin-top: 40px;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+            text-align: center;
+            background: var(--card-bg);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .truth-table th, .truth-table td {
+            padding: 10px 18px;
+            border: 1px solid #334155;
+        }
+
+        .truth-table th {
+            background: #1e293b;
+            color: #94a3b8;
+        }
+
+        .current-row {
+            background-color: rgba(59, 130, 246, 0.2);
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Circuit Va-et-Vient (XOR)</h1>
+    <p class="subtitle">La lampe <b>L</b> s'allume si l'interrupteur <b>A</b> ou <b>B</b> est activé, mais s'éteint si les deux ont le même état.</p>
+
+    <div class="circuit">
+        <!-- Interrupteur A -->
+        <div class="switch-container">
+            <span class="switch-label">Switch A</span>
+            <label class="switch">
+                <input type="checkbox" id="switchA">
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <!-- Ampoule L -->
+        <div class="bulb-container">
+            <!-- Icône SVG d'ampoule -->
+            <svg class="bulb-icon" id="bulb" viewBox="0 0 24 24">
+                <path d="M12 2C8.13 2 5 5.13 5 9c0 2.38 1.19 4.47 3 5.74V17c0 .55.45 1 1 1h6c.55 0 1-.45 1-1v-2.26c1.81-1.27 3-3.36 3-5.74 0-3.87-3.13-7-7-7zm-2 18h4c0 .55-.45 1-1 1h-2c-.55 0-1-.45-1-1z"/>
+            </svg>
+            <div class="status-badge" id="bulbStatus">Éteinte</div>
+        </div>
+
+        <!-- Interrupteur B -->
+        <div class="switch-container">
+            <span class="switch-label">Switch B</span>
+            <label class="switch">
+                <input type="checkbox" id="switchB">
+                <span class="slider"></span>
+            </label>
+        </div>
+    </div>
+
+    <!-- Table de vérité pour visualiser l'état -->
+    <table class="truth-table">
+        <thead>
+            <tr>
+                <th>A</th>
+                <th>B</th>
+                <th>Lampe (L)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="row-0-0">
+                <td>0 (OFF)</td>
+                <td>0 (OFF)</td>
+                <td>0 (Éteinte)</td>
+            </tr>
+            <tr id="row-1-0">
+                <td>1 (ON)</td>
+                <td>0 (OFF)</td>
+                <td>1 (Allumée)</td>
+            </tr>
+            <tr id="row-0-1">
+                <td>0 (OFF)</td>
+                <td>1 (ON)</td>
+                <td>1 (Allumée)</td>
+            </tr>
+            <tr id="row-1-1">
+                <td>1 (ON)</td>
+                <td>1 (ON)</td>
+                <td>0 (Éteinte)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <script>
+        // Récupération des éléments du DOM
+        const switchA = document.getElementById('switchA');
+        const switchB = document.getElementById('switchB');
+        const bulb = document.getElementById('bulb');
+        const bulbStatus = document.getElementById('bulbStatus');
+
+        function updateCircuit() {
+            const isAOn = switchA.checked;
+            const isBOn = switchB.checked;
+
+            // Logique demandée :
+            // (A activé ET B non) OU (B activé ET A non) -> Porte XOR (Ou exclusif)
+            const isLOn = (isAOn && !isBOn) || (!isAOn && isBOn);
+
+            // Mise à jour de l'apparence de l'ampoule
+            if (isLOn) {
+                bulb.classList.add('active');
+                bulbStatus.classList.add('active');
+                bulbStatus.textContent = "Allumée";
+            } else {
+                bulb.classList.remove('active');
+                bulbStatus.classList.remove('active');
+                bulbStatus.textContent = "Éteinte";
+            }
+
+            // Mise à jour visuelle de la table de vérité
+            document.querySelectorAll('.truth-table tr').forEach(tr => tr.classList.remove('current-row'));
+            const currentRowId = `row-${isAOn ? '1' : '0'}-${isBOn ? '1' : '0'}`;
+            const currentRow = document.getElementById(currentRowId);
+            if (currentRow) {
+                currentRow.classList.add('current-row');
+            }
+        }
+
+        // Écouteurs d'événements sur les interrupteurs
+        switchA.addEventListener('change', updateCircuit);
+        switchB.addEventListener('change', updateCircuit);
+
+        // Initialisation au chargement de la page
+        updateCircuit();
+    </script>
+</body>
+</html>

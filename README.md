@@ -33,16 +33,21 @@
 
 ## Projets
 
-[![Logo](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "Ce dépôt GitHub")](https://github.com/ericECmorlaix/ericECmorlaix.github.io) 
+[![Logo](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "Ce dépôt GitHub")](https://github.com/ericECmorlaix/ericECmorlaix.github.io)
 
-- [Robot 6 axes](https://mkx-3d.github.io/bras-6-axes/)
+### Va et Vient
+
+- [Version 1 - Anthropic/Claude Sonnet 5.5](https://github.com/ericECmorlaix/ericECmorlaix.github.io/iag/Va&Vient/index_1.html)
+- [Version 2 - Google/Gemini 3.8 Flash](https://github.com/ericECmorlaix/ericECmorlaix.github.io/iag/Va&Vient/index_2.html)
+
+<!-- - [Robot 6 axes](https://mkx-3d.github.io/bras-6-axes/)
 
 - [Chantiers SNT](https://ec-morlaix.github.io/chantiers_SNT/)
 
-- [GoupiLab]()
+- [GoupiLab]() -->
 
 
-## Autres
+<!-- ## Autres
 
 - http://1si.si.lycee.ecmorlaix.fr/Reseaux&PoppyErgoJr/
 - http://1si.si.lycee.ecmorlaix.fr/CartePrototypage/
@@ -89,7 +94,7 @@
 
 - <https://github.com/YannHY/cours/blob/master/Tech/Markdown>
 - <https://eyssette.github.io/marp-slides/>
-- <https://marpit.marp.app/>
+- <https://marpit.marp.app/> -->
 
 
 <!-- 
