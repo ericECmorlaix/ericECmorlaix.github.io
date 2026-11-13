@@ -39,9 +39,9 @@
 
 ### Va et Vient
 
-- [Version 1 - Anthropic/Claude Sonnet 5.5](https://ericecmorlaix.github.io/iag/Va&Vient/index_1.html) [cf discussion Compar:IA](https://ericecmorlaix.github.io/iag/Va&Vient/version_1.md)
+- [Version 1 - Anthropic/Claude Sonnet 5.5](https://ericecmorlaix.github.io/iag/Va&Vient/index_1.html) [cf discussion Compar:IA](https://github.com/ericECmorlaix/ericECmorlaix.github.io/blob/master/iag/Va%26Vient/version_1.md)
 
-- [Version 2 - Google/Gemini 3.8 Flash](https://ericecmorlaix.github.io/iag/Va&Vient/index_2.html) [cf discussion Compar:IA](https://ericecmorlaix.github.io/iag/Va&Vient/version_2.md)
+- [Version 2 - Google/Gemini 3.8 Flash](https://ericecmorlaix.github.io/iag/Va&Vient/index_2.html) [cf discussion Compar:IA](https://github.com/ericECmorlaix/ericECmorlaix.github.io/blob/master/iag/Va%26Vient/version_2.md)
 
 <!-- - [Robot 6 axes](https://mkx-3d.github.io/bras-6-axes/)
 
