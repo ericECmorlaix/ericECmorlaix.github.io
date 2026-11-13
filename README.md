@@ -23,6 +23,8 @@
 ## Utiles
 
 - <a href="https://capytale2.ac-paris.fr/web/c-auth/login">Capytale</a>
+- [ELEA via Toutatice et Educonnect](https://bzh-29-nord.elea.apps.education.fr/)
+- [Compar:IA](https://comparia.beta.gouv.fr/product/comparator)
 - [![Logo GitHub](https://avatars.githubusercontent.com/in/15368?s=32&v=4 "GitHub") GitHub](https://github.com/)
 - [Ecole Directe](https://www.ecoledirecte.com)
 - [Microsoft 365](https://login.microsoftonline.com/)
@@ -37,8 +39,9 @@
 
 ### Va et Vient
 
-- [Version 1 - Anthropic/Claude Sonnet 5.5](https://github.com/ericECmorlaix/ericECmorlaix.github.io/iag/Va&Vient/index_1.html)
-- [Version 2 - Google/Gemini 3.8 Flash](https://github.com/ericECmorlaix/ericECmorlaix.github.io/iag/Va&Vient/index_2.html)
+- [Version 1 - Anthropic/Claude Sonnet 5.5](https://ericecmorlaix.github.io/iag/Va&Vient/index_1.html) [cf discussion Compar:IA](https://ericecmorlaix.github.io/iag/Va&Vient/version_1.md)
+
+- [Version 2 - Google/Gemini 3.8 Flash](https://ericecmorlaix.github.io/iag/Va&Vient/index_2.html) [cf discussion Compar:IA](https://ericecmorlaix.github.io/iag/Va&Vient/version_2.md)
 
 <!-- - [Robot 6 axes](https://mkx-3d.github.io/bras-6-axes/)
 
